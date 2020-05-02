@@ -78,7 +78,8 @@ can use the pre-trained version of the model and place it inside `experiments/`.
 
 ```
 mv siamese_default.zip experiments/
-unzip experiments/siamese_default.zip
+cd experiments/
+unzip siamese_default.zip
 ```
 
 This will create the folder `experiments/siamese_default`, where `siamese_default` is the name of the experiment that 
