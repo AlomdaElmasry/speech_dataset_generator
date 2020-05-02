@@ -74,7 +74,7 @@ layer that verifies that the transcription is correct.**
 Finally, the last step is to remove those chunks which don't belong to our target speaker. To do so, we provide you with
 a simple Siamese network inside `siamese_network/`. The package uses 
 [Skeltorch](https://github.com/davidalvarezdlt/skeltorch), which makes it very easy to share and create experiments. You
-can use the pre-trained version of the model downloading the default experiment inside `experiments/`. To do so:
+can use the pre-trained experiment of the model and place it inside `experiments/`. You can download the experiment [from this link](https://mega.nz/file/jscAXKDL#1Sp5XiubdVvcjWAGGBB-cf_NNRjs0VUNg24mCGpxyG0).
 
 ```
 cd experiments/
